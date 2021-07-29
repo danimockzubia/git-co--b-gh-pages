@@ -1,0 +1,29 @@
+.footer {
+  background-color: rgb(39, 36, 36);
+  height: 220px;
+}
+
+.icons {
+  display: flex;
+  padding: 30px;
+  padding-top: 50px;
+  justify-content: space-evenly;
+}
+
+.footer a {
+  padding: 30px;
+  background-color: red;
+  color: white;
+}
+
+.footer a:hover {
+  background-color: white;
+  color: red;
+}
+
+.footer p {
+  display: flex;
+  justify-content: space-evenly;
+  color: white;
+
+}

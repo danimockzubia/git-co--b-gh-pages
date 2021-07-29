@@ -1,0 +1,33 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url('components/banner.css');
+@import url('components/howitworks.css');
+@import url('components/footer.css');
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
+
+h1, h3 {
+  font-family: 'DotGothic16', sans-serif;
+  font-size: 80px;
+}
+
+h3 {
+  font-size: 30px;
+}
+h2, h4 {
+  font-family: Poppins;
+}
+
+a {
+  text-decoration: none;
+  font-size: larger;
+  font-family: Poppins;
+}
+
+/* Custom design below! */

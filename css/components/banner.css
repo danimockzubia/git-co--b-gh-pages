@@ -1,0 +1,27 @@
+.banner {
+  display: flex;
+  height: 400px;
+  padding: 50px;
+}
+
+.banner-text {
+  color: white;
+  vertical-align: baseline;
+}
+
+a {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.418);
+    padding: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 50px;
+    border: .5px solid;
+    border-color: rgb(255, 0, 0);
+    color: white
+}
+
+a:hover {
+  color: red;
+  background-color: white;
+}

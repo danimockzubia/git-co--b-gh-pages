@@ -1,0 +1,18 @@
+.howitworks{
+  background-color: rgba(212, 220, 228, 0.507);
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+  /* justify-content: space-between; */
+}
+
+.box {
+  width: 200px;
+  box-shadow: 0 0 10px rgb(109, 109, 109);
+  border-radius: 5px;
+  padding: 50px;
+
+}
